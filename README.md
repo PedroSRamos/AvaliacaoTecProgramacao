@@ -1,5 +1,4 @@
-# Algoritmo-Nesta pasta se encontra os 3 arquivos pedidos. 
+# Avaliação de algoritimos e desenvolvimento!
 
-
-Avaliaçoes e Provas de Algoritmo e Tec.De Programaçao
+Projeto de jogo da velha, trabalho e provas!
 
